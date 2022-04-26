@@ -13,7 +13,7 @@ I'm Bootcamp graduate with an extensive background in various coding languages, 
 - 🔭 I’m currently working on My portfolio project
 - 🌱 I’m currently learning more Django [here](https://www.dj4e.com/)
 - 📫 How to reach me:
-   - linkedin.com/in/raivis-petrovskis
+   - https://www.linkedin.com/in/raivis-petrovskis/
    - rapet80@gmail.com
 
 
