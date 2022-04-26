@@ -1,16 +1,19 @@
 ### Hi there 👋
+My name is Raivis
 
-<!--
-**Raivis80/Raivis80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Bootcamp graduate with an extensive background in various coding languages, developing responsive, accessible applications, and building Full-Stack websites from the ground up. Specializes in Front-End, HTML, CSS, JavaScript, React Back-End Python, Flask, Django.
 
-Here are some ideas to get you started:
+- ⚡My Top priorities⚡
+  - UX Design Methods and Techniques
+  - Critical to maintaining website Accessibility best practices 
+  - The minimalism approach “Less is More” simple, intuitive, and functional designs
+  - Responsive web design that works across Desktop PCs, tablets & mobile phones
+  - Maintain best practices on website performance optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on My portfolio project
+- 🌱 I’m currently learning more Django [here](https://www.dj4e.com/)
+- 📫 How to reach me:
+   - linkedin.com/in/raivis-petrovskis
+   - rapet80@gmail.com
+
+
