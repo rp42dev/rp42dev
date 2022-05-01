@@ -13,7 +13,9 @@ I'm UX design and codin Bootcamp graduate with an extensive background in variou
   - Responsive web design that works across Desktop PCs, tablets & mobile phones
   - Maintain best practices on website performance optimization
 
-- 🔭 I’m currently working on My portfolio project
+### 🔭 I’m currently working on My portfolio project
+  - The live site link [Here](https://raivis80.github.io/My-Portfolio/)
+  - Locate the [GitHub Repository](https://github.com/Raivis80/My-Portfolio)"
 ### 🧑‍🎓 I’m currently learning more more Django 
   - free course available for everyone interested [here](https://www.dj4e.com/)
 ### 📫 How to reach me:
