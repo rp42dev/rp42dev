@@ -16,8 +16,8 @@ I'm UX design and codin Bootcamp graduate with an extensive background in variou
 ### 🔭 I’m currently working on My portfolio project
   - The live site link [Here](https://raivis80.github.io/My-Portfolio/)
   - Locate the [GitHub Repository](https://github.com/Raivis80/My-Portfolio)
-### 🧑‍🎓 I’m currently learning more more Django 
-  - free course available for everyone interested [here](https://www.dj4e.com/)
+### 🧑‍🎓 I’m currently learning
+  - Django free course available for everyone interested [here](https://www.dj4e.com/)
 ### 📫 How to reach me:
    - https://www.linkedin.com/in/raivis-petrovskis/
    - rapet80@gmail.com
