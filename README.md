@@ -1,17 +1,17 @@
 ### Hi there 👋
 :eye: My name is Raivis 🧔
 
-I'm UX design and codin Bootcamp graduate with an extensive background in various coding languages, developing Full-Stack websites from the ground up. 
+I'm a Full-Stack Software Development Bootcamp graduate with a passion for learning and problem-solving, with an extensive background in various coding languages and I have a strong foundation in Full-Stack web development.
 ### :abacus: My Stack: 
 - Front-End: HTML, CSS, JavaScript, React 
 - Back-End Python, Flask, Django.
 
 ### 📝My Top priorities
-  - UX Design Methods and Techniques
-  - Maintaining website Accessibility best practices 
-  - The minimalism approach “Less is More” simple, intuitive, and functional designs
-  - Responsive web design that works across Desktop PCs, tablets & mobile phones
-  - Maintain best practices on website performance optimization
+- Intuitive design provide meaningful experiences to users.
+- Website Accessibility Best Practices to Improve UX.
+- I'm a firm believer that "less is more" design approach.
+- Responsive web design that works across all screen sizes.
+- Website speed, performance optimization best practices.
 
 ### 🔭 I’m currently working on My portfolio project
   - The live site link [Here](https://raivis80.github.io/My-Portfolio/)
