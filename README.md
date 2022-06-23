@@ -17,11 +17,11 @@ a strong foundation in Full-Stack web development.
 - Website speed, performance optimization best practices.
 
 ### 🔭 I’m currently working on 
-1 My portfolio project
+1. My portfolio project
   - The live site link [Here](https://raivis80.github.io/My-Portfolio/)
   - Locate the [GitHub Repository](https://github.com/Raivis80/My-Portfolio)
  
-1 Volunteering as a web developer on the project for @From Lads To Dads
+2. Volunteering as a web developer on the project for @From Lads To Dads
  - The live site link [Here](https://www.fromladstodads.com/)
 The main goal:
 Update content, structure, format, and navigation of From lads to dads website to welcome more traffic and improve user experience.
