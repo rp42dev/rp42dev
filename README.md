@@ -38,7 +38,8 @@ Work Workflow:
 ### 🧑‍🎓 I’m currently learning
   - Django free course available for everyone interested [here](https://www.dj4e.com/)
 ### 📫 How to reach me:
-   - https://www.linkedin.com/in/raivis-petrovskis/
-   - rapet80@gmail.com
+   - [Portfolio](https://raivis80.github.io/My-Portfolio/)
+   - [Linked In](https://www.linkedin.com/in/raivis-petrovskis/)
+   - gmail rapet80@gmail.com
 
 
