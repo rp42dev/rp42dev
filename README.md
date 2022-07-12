@@ -1,10 +1,11 @@
 ### Hi there 👋
 :eye: My name is Raivis 🧔
 
-I'm a Full-Stack Software Development Bootcamp graduate\
-with a passion for learning and problem-solving, with an\
-extensive background in various coding languages and I have\
-a strong foundation in Full-Stack web development.
+An aspiring Full-Stack coder developer with 
+a passion for learning and problem-solving. 
+I have an extensive background in various coding 
+languages and I have a strong foundation 
+in Full-Stack web development.
 ### :abacus: Technologies I’ve worked with: 
 - Front-End: HTML, CSS, JavaScript, React 
 - Back-End Python, Flask, Django.
