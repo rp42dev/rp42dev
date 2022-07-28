@@ -1,11 +1,12 @@
 ### Hi there 👋
 :eye: My name is Raivis 🧔
 
-An aspiring Full-Stack coder developer with 
+Im a Junior Full-Stack coder developer with 
 a passion for learning and problem-solving. 
 I have an extensive background in various coding 
 languages and I have a strong foundation 
 in Full-Stack web development.
+
 ### :abacus: Technologies I’ve worked with: 
 - Front-End: HTML, CSS, JavaScript, React 
 - Back-End Python, Flask, Django.
@@ -38,6 +39,7 @@ Work Workflow:
 
 ### 🧑‍🎓 I’m currently learning
   - Django free course available for everyone interested [here](https://www.dj4e.com/)
+  - Micro-frontends let you build a website or web app as a composition of features free coure [here](https://www.freecodecamp.org/news/learn-all-about-micro-frontends/).
 ### 📫 How to reach me:
    - [Portfolio](https://raivis80.github.io/My-Portfolio/)
    - [Linked In](https://www.linkedin.com/in/raivis-petrovskis/)
