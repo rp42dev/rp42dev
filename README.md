@@ -39,7 +39,8 @@ Work Workflow:
 
 ### 🧑‍🎓 I’m currently learning
   - Django free course available for everyone interested [here](https://www.dj4e.com/)
-  - Micro-frontends let you build a website or web app as a composition of features free coure [here](https://www.freecodecamp.org/news/learn-all-about-micro-frontends/).
+  - Udem 100 Days of Code: The Complete Python Pro Bootcamp for 2022. Udemy course link [here](https://www.udemy.com/course/100-days-of-code)
+
 ### 📫 How to reach me:
    - [Portfolio](https://raivis80.github.io/My-Portfolio/)
    - [Linked In](https://www.linkedin.com/in/raivis-petrovskis/)
