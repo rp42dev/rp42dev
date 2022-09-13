@@ -1,8 +1,6 @@
 ### Hi there 👋
 :eye: My name is Raivis 🧔
 
-<iframe src="https://api.eu.badgr.io/public/assertions/IGu3GllMS1Kuvkaa8wI7IQ?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=rapet80%40gmail.com" title="Badge: September 2022 Hybrid Hackathon: 1st Place" style="width: 330px; height: 191px; border: 0px;"></iframe>
-
 Im a Junior Full-Stack coder developer with 
 a passion for learning and problem-solving. 
 I have an extensive background in various coding 
