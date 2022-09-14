@@ -1,61 +1,61 @@
-### Hi there 👋
-:eye: My name is Raivis 🧔
+<!-- create readme file for github -->
 
-Im a Junior Full-Stack coder developer with 
-a passion for learning and problem-solving. 
-I have an extensive background in various coding 
-languages and I have a strong foundation 
-in Full-Stack web development.
+# Hi there, I'm [Raivis](https://www.linkedin.com/in/raivis-petrovskis-524291205/) 👋
 
+<!-- add links to linkedin and portfolio website with badges -->
+
+[![Linkedin Badge](https://img.shields.io/badge/-Raivis%20Petrovskis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raivis-petrovskis-524291205/)](https://www.linkedin.com/in/raivis-petrovskis-524291205/)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-47CCCC?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://raivispetrovskis.com/portfolio)](https://raivis80.github.io/My-Portfolio/)
+
+
+<!-- add an image here -->
+
+
+
+<!-- add short description about you -->
+## 👁️ About me
+
+I'm a Full Stack Web Developer from Latvia, currently living in Dublin Ireland. I'm a recent graduate of the [Code Institute](https://codeinstitute.net/) Full Stack Software Development Diploma. I'm passionate about learning new technologies and creating new projects. I'm always looking for new opportunities to learn and grow as a developer.
+
+<!-- Firs place in hackathon  -->
+## 🏆 Hackathon Winner
+
+I was part of a team that won the first place in the [Hackathon](https://www.linkedin.com/feed/update/urn:li:activity:6974694724104265728/) organised by the [Code Institute](https://codeinstitute.net/). We created a web application[Genquality](https://raivis80.github.io/Genquality/index.html), project [repo](https://github.com/Raivis80/Genquality) this web application is designed to see how aware the user really is about the gender gap in the workplace.
+
+<!-- add the technologies you learned and used -->
 ---
 
-### :hammer_and_wrench: Technologies I’ve worked with: 
-- Front-End:\
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"
-  title="Bootstrap" alt="Bootstrap" width="40" height="40" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-  title="JavaScript" alt="JavaScript" width="40" height="40" />
-  
-- Back-End Python, Flask, Django.
+## 🛠️ Technologies & Tools
 
----
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap&logoColor=563D7C)
+![material-ui](https://img.shields.io/badge/-Material--UI-black?style=flat-square&logo=material-ui)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 
-### 📝My Top priorities
-- Intuitive design provide meaningful experiences to users.
-- Website Accessibility Best Practices to Improve UX.
-- I'm a firm believer that "less is more" design approach.
-- Responsive web design that works across all screen sizes.
-- Website speed, performance optimization best practices.
+<!-- add the main languages in your github -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raivis80&theme=tokyonight)
+ ---
 
-### 🔭 I’m currently working on 
-1. My portfolio project
-  - The live site link [Here](https://raivis80.github.io/My-Portfolio/)
-  - Locate the [GitHub Repository](https://github.com/Raivis80/My-Portfolio)
- 
-2. Volunteering as a web developer on the project for @From Lads To Dads
- - The live site link [Here](https://www.fromladstodads.com/)
-The main goal:
-Update content, structure, format, and navigation of From lads to dads website to welcome more traffic and improve user experience.
+ <!-- Im currently working on -->
+## 🚀 I’m currently working on
+- [My Portfolio](https://raivis80.github.io/My-Portfolio/) - My portfolio website in React
+- [From Lads to Dads](https://from-lads-to-dads.ie/) - A website for a local charity in Dublin
 
-Work Workflow:
-- ✓ Analyze the old website.
-- ✓ Identify priorities.
-- ✓ Define and update the website's target audience.
-- ✓ Find out what is working on the current website.
-- ✓ Create a list of desired design changes.
-- Define the new goals.
-- Start building the website redesign plan.
-
-### 🧑‍🎓 I’m currently learning
-  - Django free course available for everyone interested [here](https://www.dj4e.com/)
-  - Udem 100 Days of Code: The Complete Python Pro Bootcamp for 2022. Udemy course link [here](https://www.udemy.com/course/100-days-of-code)
-
-### 📫 How to reach me:
-   - [Portfolio](https://raivis80.github.io/My-Portfolio/)
-   - [Linked In](https://www.linkedin.com/in/raivis-petrovskis/)
-   - gmail rapet80@gmail.com
+<!-- Im currently learning -->
+## 🌱 I’m currently learning
+- JavaScript in depth
+- Python in depth
 
 
+## 📈 My GitHub Stats
+<!-- add the github streak stats  -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raivis80&theme=tokyonight)
