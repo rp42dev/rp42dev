@@ -20,7 +20,7 @@ I'm a Full Stack Web Developer from Latvia, currently living in Dublin Ireland. 
 <!-- Firs place in hackathon  -->
 ## 🏆 Hackathon Winner
 
-I was part of a team that won the first place in the [Hackathon](https://www.linkedin.com/feed/update/urn:li:activity:6974694724104265728/) organised by the [Code Institute](https://codeinstitute.net/). We created a web application[Genquality](https://raivis80.github.io/Genquality/index.html), project [repo](https://github.com/Raivis80/Genquality) this web application is designed to see how aware the user really is about the gender gap in the workplace.
+I was part of a team that won the first place in the [Hackathon](https://www.linkedin.com/feed/update/urn:li:activity:6974694724104265728/) organised by the [Code Institute](https://codeinstitute.net/). We created a web application [Genquality](https://raivis80.github.io/Genquality/index.html), project [repo](https://github.com/Raivis80/Genquality) this web application is designed to see how aware the user really is about the gender gap in the workplace.
 
 <!-- add the technologies you learned and used -->
 ---
