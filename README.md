@@ -47,7 +47,7 @@ I was part of a team that won the first place in the [Hackathon](https://www.lin
 
  <!-- Im currently working on -->
 ## 🚀 I’m currently working on
-- [My Portfolio](https://raivis80.github.io/My-Portfolio/) - My portfolio website in React
+- [My Portfolio](https://rp42.dev/) - My portfolio website in React
 - [From Lads to Dads](https://fromladstodads.ie/) - A website for a local charity in Dublin
 
 <!-- Im currently learning -->
