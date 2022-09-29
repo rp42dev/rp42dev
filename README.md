@@ -42,13 +42,14 @@ I was part of a team that won the first place in the [Hackathon](https://www.lin
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 
 <!-- add the main languages in your github -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raivis80&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rp42dev&theme=tokyonight)
  ---
 
  <!-- Im currently working on -->
 ## 🚀 I’m currently working on
 - [My Portfolio](https://rp42.dev/) - My portfolio website in React
 - [From Lads to Dads](https://fromladstodads.ie/) - A website for a local charity in Dublin
+- [Ed Tattoo site](https://ed-tattoo.netlify.app/) and [Ed Tattoo Rpo](https://github.com/rp42dev/ed-tattoo)This is a portfolio of Ed-Tattoo work. Ed is a tattoo artist in the Oslo area of Norway.
 
 <!-- Im currently learning -->
 ## 🌱 I’m currently learning
@@ -58,4 +59,4 @@ I was part of a team that won the first place in the [Hackathon](https://www.lin
 
 ## 📈 My GitHub Stats
 <!-- add the github streak stats  -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raivis80&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rp42dev&theme=tokyonight)
