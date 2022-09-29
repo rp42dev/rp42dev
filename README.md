@@ -4,7 +4,7 @@
 
 <!-- add links to linkedin and portfolio website with badges -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Raivis%20Petrovskis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raivis-petrovskis-524291205/)](https://www.linkedin.com/in/raivis-petrovskis-524291205/)
+[![Linkedin Badge](https://img.shields.io/badge/-rp42-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rp42/)](https://www.linkedin.com/in/raivis-petrovskis-524291205/)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-47CCCC?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://raivispetrovskis.com/portfolio)](https://raivis80.github.io/My-Portfolio/)
 
 
@@ -49,7 +49,7 @@ I was part of a team that won the first place in the [Hackathon](https://www.lin
 ## 🚀 I’m currently working on
 - [My Portfolio](https://rp42.dev/) - My portfolio website in React
 - [From Lads to Dads](https://fromladstodads.ie/) - A website for a local charity in Dublin
-- [Ed Tattoo site](https://ed-tattoo.netlify.app/) and [Ed Tattoo Rpo](https://github.com/rp42dev/ed-tattoo)This is a portfolio of Ed-Tattoo work. Ed is a tattoo artist in the Oslo area of Norway.
+- [Ed Tattoo site](https://ed-tattoo.netlify.app/) and [Ed Tattoo Rpo](https://github.com/rp42dev/ed-tattoo) This is a portfolio of Ed-Tattoo work. Ed is a tattoo artist built of the [Preact-cli](https://github.com/preactjs/preact-cli)
 
 <!-- Im currently learning -->
 ## 🌱 I’m currently learning
