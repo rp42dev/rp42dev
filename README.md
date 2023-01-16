@@ -1,11 +1,11 @@
 <!-- create readme file for github -->
 
-# Hi there, I'm [Raivis](https://www.linkedin.com/in/raivis-petrovskis-524291205/) 👋
+# Hi there, I'm [Raivis](https://www.linkedin.com/in/rp42/) 👋
 
 <!-- add links to linkedin and portfolio website with badges -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-rp42-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rp42/)](https://www.linkedin.com/in/raivis-petrovskis-524291205/)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-47CCCC?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://raivispetrovskis.com/portfolio)](https://raivis80.github.io/My-Portfolio/)
+[![Linkedin Badge](https://img.shields.io/badge/-rp42-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rp42/)](https://www.linkedin.com/in/rp42/)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-47CCCC?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://rp42.dev/)](https://rp42.dev/)
 
 
 <!-- add an image here -->
@@ -20,7 +20,7 @@ I'm a Full Stack Web Developer from Latvia, currently living in Dublin Ireland. 
 <!-- Firs place in hackathon  -->
 ## 🏆 Hackathon Winner
 
-I was part of a team that won the first place in the [Hackathon](https://www.linkedin.com/feed/update/urn:li:activity:6974694724104265728/) organised by the [Code Institute](https://codeinstitute.net/). We created a web application [Genquality](https://raivis80.github.io/Genquality/index.html), project [repo](https://github.com/Raivis80/Genquality) this web application is designed to see how aware the user really is about the gender gap in the workplace.
+I was part of a team that won the first place in the [Hackathon](https://www.linkedin.com/feed/update/urn:li:activity:6974694724104265728/) organised by the [Code Institute](https://codeinstitute.net/). We created a web application [Genquality](https://rp42dev.github.io/Genquality/index.html), project [repo](https://github.com/rp42dev/Genquality) this web application is designed to see how aware the user really is about the gender gap in the workplace.
 
 <!-- add the technologies you learned and used -->
 ---
