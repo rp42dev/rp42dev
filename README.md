@@ -46,10 +46,14 @@ I was part of a team that won the first place in the [Hackathon](https://www.lin
  ---
 
  <!-- Im currently working on -->
+
 ## 🚀 I’m currently working on
+- [uniqrete.ie](https://uniqrete.ie) and [Repo](https://github.com/rp42dev/uniqrete.ie) - A web app for Local business Uniqrete limited is a family run business based in Ireland.
+- [My Django Portfolio #2](https://rp42.cloud) and [Repo](https://github.com/rp42dev/django_project) - My portfolio website in Django
 - [My Portfolio](https://rp42.dev/) - My portfolio website in React
 - [From Lads to Dads](https://fromladstodads.ie/) - A website for a local charity in Dublin
-- [Ed Tattoo site](https://ed-tattoo.netlify.app/) and [Repo](https://github.com/rp42dev/ed-tattoo) This is a portfolio of Ed-Tattoo work. Ed is a tattoo artist built of the [Preact-cli](https://github.com/preactjs/preact-cli)
+- [Ed Tattoo site](https://ed-tattoo.netlify.app/) and [Repo](https://github.com/rp42dev/ed-tattoo) - A website for a local tattoo artist in Oslo
+
 
 <!-- Im currently learning -->
 ## 🌱 I’m currently learning
