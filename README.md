@@ -15,7 +15,8 @@
 <!-- add short description about you -->
 ## 👁️ About me
 
-I'm a Full Stack Web Developer from Latvia, currently living in Dublin Ireland. I'm a recent graduate of the [Code Institute](https://codeinstitute.net/) Full Stack Software Development Diploma. I'm passionate about learning new technologies and creating new projects. I'm always looking for new opportunities to learn and grow as a developer.
+I'm a Full Stack Web Developer from Latvia, currently living in Dublin Ireland. I'm a Full Stack Web Developer from Latvia, currently living in Dublin Ireland. Over the last three years, I have developed my skills in HTML, CSS, JavaScript, and Python, with a focus on modern JavaScript libraries and frameworks such as React, as well as backend frameworks like Django and Flask. My expertise in web app development has been continuously refined through a combination of volunteer work, personal projects, and ongoing education.
+
 
 <!-- Firs place in hackathon  -->
 ## 🏆 Hackathon Winner
@@ -40,6 +41,12 @@ I was part of a team that won the first place in the [Hackathon](https://www.lin
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
+![VS Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+![Slack](https://img.shields.io/badge/-Slack-black?style=flat-square&logo=slack)
+![NginX](https://img.shields.io/badge/-nginX-black?style=flat-square&logo=nginx)
+![Gunicorn](https://img.shields.io/badge/-Gunicorn-black?style=flat-square&logo=gunicorn)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 
 <!-- add the main languages in your github -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rp42dev&theme=tokyonight)
