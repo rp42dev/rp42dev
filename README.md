@@ -15,7 +15,7 @@
 <!-- add short description about you -->
 ## 👁️ About me
 
-I'm a Full Stack Web Developer from Latvia, currently living in Dublin Ireland. I'm a Full Stack Web Developer from Latvia, currently living in Dublin Ireland. Over the last three years, I have developed my skills in HTML, CSS, JavaScript, and Python, with a focus on modern JavaScript libraries and frameworks such as React, as well as backend frameworks like Django and Flask. My expertise in web app development has been continuously refined through a combination of volunteer work, personal projects, and ongoing education.
+I'm a Full Stack Web Developer from Latvia, currently living in Dublin Ireland. Over the last three years, I have developed my skills in HTML, CSS, JavaScript, and Python, with a focus on modern JavaScript libraries and frameworks such as React, as well as backend frameworks like Django and Flask. My expertise in web app development has been continuously refined through a combination of volunteer work, personal projects, and ongoing education.
 
 
 <!-- Firs place in hackathon  -->
