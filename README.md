@@ -1,6 +1,6 @@
 <!-- create readme file for github -->
 
-# Hi there, I'm [Raivis](https://www.linkedin.com/in/rp42/) 👋
+# Hi I'm [Raivis](https://www.linkedin.com/in/rp42/) 👋
 
 <!-- add links to linkedin and portfolio website with badges -->
 
@@ -15,13 +15,7 @@
 <!-- add short description about you -->
 ## 👁️ About me
 
-I'm a Full Stack Web Developer from Latvia, currently living in Dublin Ireland. Over the last three years, I have developed my skills in HTML, CSS, JavaScript, and Python, with a focus on modern JavaScript libraries and frameworks such as React, as well as backend frameworks like Django and Flask. My expertise in web app development has been continuously refined through a combination of volunteer work, personal projects, and ongoing education.
-
-
-<!-- Firs place in hackathon  -->
-## 🏆 Hackathon Winner
-
-I was part of a team that won the first place in the [Hackathon](https://www.linkedin.com/feed/update/urn:li:activity:6974694724104265728/) organised by the [Code Institute](https://codeinstitute.net/). We created a web application [Genquality](https://rp42dev.github.io/Genquality/index.html), project [repo](https://github.com/rp42dev/Genquality) this web application is designed to see how aware the user really is about the gender gap in the workplace.
+Hey there! I'm a full-stack software developer from Ireland who loves creating user-friendly applications that work smoothly on any device or platform. I have a particular interest in making unresponsive websites mobile-friendly, no matter what technology they were built with. So, whether it's WordPress or any other platform, I can help make it more responsive.
 
 <!-- add the technologies you learned and used -->
 ---
@@ -48,25 +42,13 @@ I was part of a team that won the first place in the [Hackathon](https://www.lin
 ![Gunicorn](https://img.shields.io/badge/-Gunicorn-black?style=flat-square&logo=gunicorn)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 
+<!-- Firs place in hackathon  -->
+## 🏆 Hackathon Winner
+
+I was part of a team that won the first place in the [Hackathon](https://www.linkedin.com/feed/update/urn:li:activity:6974694724104265728/) organised by the [Code Institute](https://codeinstitute.net/). We created a web application [Genquality](https://rp42dev.github.io/Genquality/index.html), project [repo](https://github.com/rp42dev/Genquality) this web application is designed to see how aware the user really is about the gender gap in the workplace.
+
 <!-- add the main languages in your github -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rp42dev&theme=tokyonight)
- ---
-
- <!-- Im currently working on -->
-
-## 🚀 I’m currently working on
-- [uniqrete.ie](https://uniqrete.ie) and [Repo](https://github.com/rp42dev/uniqrete.ie) - A web app for Local business Uniqrete limited is a family run business based in Ireland.
-- [My Django Portfolio #2](https://rp42.cloud) and [Repo](https://github.com/rp42dev/django_project) - My portfolio website in Django
-- [My Portfolio](https://rp42.dev/) - My portfolio website in React
-- [From Lads to Dads](https://fromladstodads.ie/) - A website for a local charity in Dublin
-- [Ed Tattoo site](https://ed-tattoo.netlify.app/) and [Repo](https://github.com/rp42dev/ed-tattoo) - A website for a local tattoo artist in Oslo
-
-
-<!-- Im currently learning -->
-## 🌱 I’m currently learning
-- JavaScript in depth
-- Python in depth
-
 
 ## 📈 My GitHub Stats
 <!-- add the github streak stats  -->
