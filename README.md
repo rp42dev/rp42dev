@@ -15,8 +15,7 @@
 <!-- add short description about you -->
 ## 👁️ About me
 
-Hey there! I'm a full-stack software developer from Ireland who loves creating user-friendly applications that work smoothly on any device or platform. I have a particular interest in making unresponsive websites mobile-friendly, no matter what technology they were built with. So, whether it's WordPress or any other platform, I can help make it more responsive.
-
+Hey there! I'm a full-stack software developer from Ireland.
 <!-- add the technologies you learned and used -->
 ---
 
